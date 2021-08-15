@@ -1,2 +1,2 @@
 # Diamond-Pattern
-Diamond Pattern made with C language
+The program that makes the Diamond Pattern. Made with C language. This program was written for the Algorithms and Programming lecture.
